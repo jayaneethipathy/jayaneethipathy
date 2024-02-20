@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayaneethipathy
-- 👀 I’m interested in ... engineering
-- 🌱 I’m currently learning ...ML algorithms
+- 👀 I’m interested in ... IoT, Embedded systems, Cloud  
+- 🌱 I’m currently learning ...ML algorithms and OpenCV
 -  📫 How to reach me ... mail me
 
 <!---
